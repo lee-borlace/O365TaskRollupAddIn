@@ -7,6 +7,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "O365TaskRollupAddInWeb", "O
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "O365TaskRollupAddInWeb.Tests", "O365TaskRollupAddInWeb.Tests\O365TaskRollupAddInWeb.Tests.csproj", "{F9966828-2570-458A-AC2D-D0D3B6CC8AB8}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8669B4CF-59F9-49E9-8FB3-31560611789C}"
+	ProjectSection(SolutionItems) = preProject
+		readme.md = readme.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
